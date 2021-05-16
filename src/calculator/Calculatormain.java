@@ -9,11 +9,11 @@ import org.mariuszgromada.math.mxparser.*;
 
 /**
  *
- * @author ashirafzal
+ * @author saadsaleem
  */
 public class Calculatormain extends javax.swing.JFrame {
 
-    /************************  Created by AshirAfzal *******************************/
+    /************************  Created by SaadSaleem *******************************/
     
     
     
